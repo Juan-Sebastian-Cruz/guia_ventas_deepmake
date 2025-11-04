@@ -159,7 +159,7 @@ Argumento de venta: “Asegura el éxito de tu IA. Dales a tus modelos los datos
 | **Enfoque Principal**                | Diagnóstico y Estrategia | Eficiencia y Automatización | Conocimiento y Habilidad |
 | **Resultados Clave**                 | ROI Potencial, Roadmap | Ahorro, Leads, Soporte 24/7 | Equipo Capacitado, Adopción |
 | **Integración con Sistemas**         | Media (evaluación)   | Alta (implementación)     | Baja (formación)       |
-| **Tipo de Problema Resuelto**        | Ineficiencia Oculta, Falta de Plan | Operaciones Repetitivas, CX | Brecha de Habilidades, Resistencia al Cambio |
+| **Tipo de Problema Resuelto**        | Ineficiencia Oculta, Falta de Plan | Operaciones Repetitivas, CX (customer experience) | Brecha de Habilidades, Resistencia al Cambio |
 | **Producto de Entrada Rápida**       | Auditoría Express    | Chatbot / Agente Recepcionista | Fundamentos de IA para Equipos |
 | **Público Objetivo Principal**       | Gerencia, Operaciones | Operaciones, Ventas, CX   | Líderes, Equipos Técnicos, No Técnicos |
 
